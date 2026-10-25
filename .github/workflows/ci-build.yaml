@@ -1,3 +1,4 @@
+# CI workflow: checkout, lint, unit tests.
 name: CI Build
 
 on:
